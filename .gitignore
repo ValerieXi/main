@@ -3,4 +3,4 @@
 *.iml
 *.class
 *.setting
-*.target
+*target
